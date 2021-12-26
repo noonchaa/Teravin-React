@@ -17,7 +17,6 @@ const Detail = () => {
             setData([])
         }
     },[])
-    console.log(data)
 
     return(
         <>
